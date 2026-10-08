@@ -1,0 +1,36 @@
+Stock Portfolio Analyzer
+Presenter: Ramadhar Mishra
+Captioned presentation; no audio track.
+
+01. Introduction (14 seconds)
+I am Ramadhar Mishra. My project is a Stock Portfolio Analyzer built with Python and Streamlit. It converts uploaded CSV datasets into portfolio metrics and visual analysis.
+
+02. Purpose (15 seconds)
+The goal is to make stock data easier to understand. Users can upload holdings or price history and immediately explore useful metrics and charts.
+
+03. CSV formats (18 seconds)
+The application supports two CSV formats. Holdings need ticker, shares, purchase cost per share, and current price. Price history needs date, ticker, and close. The demo contains Apple, Tesla, Google, and Salesforce with synthetic prices.
+
+04. Workflow (15 seconds)
+First, choose holdings or history and upload a CSV. Map any custom header names, then the app validates the data. Use ticker filters to focus the analysis, inspect charts, and download the results.
+
+05. Sample portfolio metrics (18 seconds)
+The sample portfolio has a value of 11,240.00 dollars and purchase cost of 10,015.00 dollars. Unrealized gain is 1,225.00 dollars, or 12.23 percent relative to cost. These values are calculated from the actual synthetic sample CSV.
+
+06. Allocation and gains (17 seconds)
+Allocation charts show the share of selected portfolio value in each stock and sector. Gain and loss charts compare positions against purchase cost. The insights tab identifies the largest position and ranks gains relative to cost.
+
+07. Price-history chart (18 seconds)
+Price-history mode displays stock closing prices and price growth indexed to one hundred. Users can choose tickers and a date range. It also calculates price change, volatility per observation, and maximum drawdown within that range.
+
+08. Calculation methods (17 seconds)
+Portfolio value is shares times current price. Unrealized gain is market value less purchase cost. Multiple purchase lots are combined using share-weighted cost. History volatility is measured per observation, without annualization. Drawdown tracks the decline from an observed price peak.
+
+09. Implementation and AI assistance (18 seconds)
+The interface uses Streamlit, data calculations use pandas, and charts use Plotly. AI assistance helped develop and refine the project. The built-in AI workflow produces local prompts for future improvements, while review and tests validate the resulting code.
+
+10. Validation and limitations (17 seconds)
+Thirteen automated tests validate the financial calculations and application behavior. Invalid data is reported rather than silently ignored. The project uses CSV prices, supports long stock positions, and uses one currency per file. Portfolio returns cannot be inferred from price history alone.
+
+11. Conclusion (13 seconds)
+The result is a working stock data application that accepts uploads, validates inputs, analyzes holdings and prices, and exports results. Possible future extensions include live quotes, cash-flow-aware portfolio returns, and benchmark comparisons. Thank you.

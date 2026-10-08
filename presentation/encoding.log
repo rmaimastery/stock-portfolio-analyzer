@@ -1,0 +1,49 @@
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+  configuration: --prefix=/Volumes/tempdisk/sw --extra-cflags=-fno-stack-check --arch=arm64 --cc=/usr/bin/clang --enable-gpl --enable-libvmaf --enable-libopenjpeg --enable-libopus --enable-libmp3lame --enable-libx264 --enable-libx265 --enable-libvpx --enable-libwebp --enable-libass --enable-libfreetype --enable-fontconfig --enable-libtheora --enable-libvorbis --enable-libsnappy --enable-libaom --enable-libvidstab --enable-libzimg --enable-libsvtav1 --enable-libharfbuzz --enable-libkvazaar --pkg-config-flags=--static --enable-ffplay --enable-postproc --enable-neon --enable-runtime-cpudetect --disable-indev=qtkit --disable-indev=x11grab_xcb
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, concat, from '/Users/ramadharmishra/GenAcademyAITraining/project-1/presentation/slides.txt':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1280x720, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+[libx264 @ 0x15be07700] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0x15be07700] profile High, level 3.1, 4:2:0, 8-bit
+[libx264 @ 0x15be07700] 264 - core 164 r3190 7ed753b - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Users/ramadharmishra/GenAcademyAITraining/project-1/presentation/Stock_Portfolio_Analyzer_Ramadhar_Mishra.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1280x720, q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=  237 fps=0.0 q=25.0 size=       0KiB time=00:00:09.79 bitrate=   0.0kbits/s speed=19.5x    frame=  550 fps=548 q=25.0 size=       0KiB time=00:00:22.83 bitrate=   0.0kbits/s speed=22.8x    frame=  838 fps=556 q=25.0 size=       0KiB time=00:00:34.83 bitrate=   0.0kbits/s speed=23.1x    frame= 1150 fps=573 q=25.0 size=     256KiB time=00:00:47.83 bitrate=  43.9kbits/s speed=23.8x    frame= 1476 fps=588 q=25.0 size=     256KiB time=00:01:01.41 bitrate=  34.2kbits/s speed=24.5x    frame= 1795 fps=597 q=25.0 size=     512KiB time=00:01:14.70 bitrate=  56.1kbits/s speed=24.8x    frame= 2089 fps=595 q=25.0 size=     512KiB time=00:01:26.95 bitrate=  48.2kbits/s speed=24.8x    frame= 2260 fps=563 q=25.0 size=     512KiB time=00:01:34.08 bitrate=  44.6kbits/s speed=23.4x    frame= 2453 fps=543 q=25.0 size=     512KiB time=00:01:42.12 bitrate=  41.1kbits/s speed=22.6x    frame= 2700 fps=538 q=25.0 size=     768KiB time=00:01:52.41 bitrate=  56.0kbits/s speed=22.4x    frame= 2931 fps=531 q=25.0 size=     768KiB time=00:02:02.04 bitrate=  51.6kbits/s speed=22.1x    frame= 3136 fps=521 q=25.0 size=     768KiB time=00:02:10.58 bitrate=  48.2kbits/s speed=21.7x    frame= 3351 fps=513 q=25.0 size=     768KiB time=00:02:19.54 bitrate=  45.1kbits/s speed=21.4x    frame= 3588 fps=510 q=25.0 size=    1024KiB time=00:02:29.41 bitrate=  56.1kbits/s speed=21.3x    frame= 3814 fps=506 q=25.0 size=    1024KiB time=00:02:38.83 bitrate=  52.8kbits/s speed=21.1x    frame= 4074 fps=507 q=25.0 size=    1024KiB time=00:02:49.66 bitrate=  49.4kbits/s speed=21.1x    [mp4 @ 0x15be06320] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x15be057d0] video:1336KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.847664%
+frame= 4320 fps=514 q=-1.0 Lsize=    1387KiB time=00:02:59.91 bitrate=  63.2kbits/s speed=21.4x    
+[libx264 @ 0x15be07700] frame I:22    Avg QP:10.55  size: 53889
+[libx264 @ 0x15be07700] frame P:1091  Avg QP:25.05  size:    57
+[libx264 @ 0x15be07700] frame B:3207  Avg QP:30.32  size:    37
+[libx264 @ 0x15be07700] consecutive B-frames:  1.0%  0.0%  0.0% 99.0%
+[libx264 @ 0x15be07700] mb I  I16..4: 50.1% 29.2% 20.7%
+[libx264 @ 0x15be07700] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+[libx264 @ 0x15be07700] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:21.7% L1:78.3% BI: 0.0%
+[libx264 @ 0x15be07700] 8x8 transform intra:29.3% inter:5.5%
+[libx264 @ 0x15be07700] coded y,uvDC,uvAC intra: 13.0% 16.5% 13.8% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x15be07700] i16 v,h,dc,p: 83% 17%  0%  0%
+[libx264 @ 0x15be07700] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 85%  5%  9%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x15be07700] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 40% 20% 17%  2%  4%  5%  4%  4%  4%
+[libx264 @ 0x15be07700] i8c dc,h,v,p: 76% 18%  5%  1%
+[libx264 @ 0x15be07700] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x15be07700] ref P L0: 96.4%  3.6%
+[libx264 @ 0x15be07700] ref B L0: 75.5% 24.5%
+[libx264 @ 0x15be07700] ref B L1: 69.1% 30.9%
+[libx264 @ 0x15be07700] kb/s:60.76

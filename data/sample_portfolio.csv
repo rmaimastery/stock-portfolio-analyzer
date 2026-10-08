@@ -1,0 +1,5 @@
+ticker,shares,average_cost,current_price,sector,previous_close
+AAPL,20,150,175,Technology,173
+TSLA,12,220,245,Consumer Discretionary,242
+GOOGL,15,125,140,Communication Services,138
+CRM,10,250,270,Technology,268

@@ -1,0 +1,601 @@
+date,region,category,product,units,unit_price,revenue,profit
+2025-01-13,North,Home,Throw blanket,2,29,58,10.23
+2025-02-22,West,Technology,Keyboard,12,65,780,199.53
+2025-02-17,East,Technology,Headphones,1,89,89,15.44
+2025-10-15,East,Home,Coffee maker,1,75,75,21.35
+2025-08-03,East,Home,Throw blanket,9,29,261,58.29
+2025-01-04,East,Office,Notebook,13,12,156,43.77
+2025-03-21,East,Office,Notebook,5,12,60,20.41
+2025-02-17,South,Office,Notebook,2,12,24,3.41
+2025-05-16,West,Office,Notebook,10,12,120,34.54
+2025-07-13,West,Home,Coffee maker,2,75,150,37.05
+2025-07-05,East,Home,Throw blanket,10,29,290,81.79
+2025-04-27,North,Technology,Headphones,11,89,979,339.32
+2025-02-21,South,Technology,Keyboard,14,65,910,167.38
+2025-07-06,East,Home,Throw blanket,14,29,406,83.29
+2025-05-17,West,Technology,Keyboard,11,65,715,185.97
+2025-05-06,East,Technology,Keyboard,9,65,585,132.4
+2025-11-24,East,Office,Notebook,15,12,180,49.94
+2025-01-17,North,Technology,Headphones,4,89,356,75.57
+2025-10-18,North,Technology,Headphones,4,89,356,60.13
+2025-11-26,South,Office,Desk lamp,7,35,245,37.45
+2025-10-15,North,Technology,Keyboard,4,65,260,75.87
+2025-10-26,South,Office,Desk lamp,15,35,525,106.71
+2025-09-10,West,Technology,Keyboard,9,65,585,171.89
+2025-11-18,East,Technology,Headphones,3,89,267,80.68
+2025-02-02,South,Office,Desk lamp,10,35,350,72.72
+2025-05-09,West,Office,Desk lamp,9,35,315,87.09
+2025-10-02,North,Technology,Headphones,11,89,979,290.55
+2025-05-31,South,Office,Notebook,2,12,24,3.75
+2025-05-15,East,Technology,Headphones,12,89,1068,252.87
+2025-11-17,North,Technology,Headphones,14,89,1246,390.73
+2025-04-12,East,Home,Coffee maker,10,75,750,154.5
+2025-09-29,West,Technology,Keyboard,9,65,585,150.79
+2025-02-27,North,Office,Desk lamp,1,35,35,11.27
+2025-01-30,East,Office,Notebook,4,12,48,15.45
+2025-09-06,West,Technology,Headphones,2,89,178,61.4
+2025-03-06,East,Home,Coffee maker,13,75,975,264.95
+2025-05-16,South,Home,Coffee maker,3,75,225,76.91
+2025-12-20,East,Home,Coffee maker,13,75,975,276.88
+2025-11-29,North,Office,Desk lamp,11,35,385,84.99
+2025-03-03,East,Home,Coffee maker,8,75,600,103.01
+2025-10-29,East,Office,Notebook,1,12,12,3.06
+2025-12-29,West,Technology,Headphones,2,89,178,30.73
+2025-06-19,West,Technology,Headphones,14,89,1246,296.87
+2025-09-06,East,Office,Notebook,11,12,132,32.21
+2025-10-20,South,Home,Throw blanket,15,29,435,76.51
+2025-07-28,East,Office,Desk lamp,13,35,455,64.47
+2025-07-01,South,Home,Throw blanket,7,29,203,43.55
+2025-12-11,West,Home,Throw blanket,1,29,29,3.88
+2025-02-25,East,Home,Throw blanket,6,29,174,28.55
+2025-03-13,South,Home,Coffee maker,8,75,600,97.32
+2025-02-08,South,Office,Desk lamp,4,35,140,42.82
+2025-01-26,West,Home,Coffee maker,2,75,150,51.43
+2025-07-28,South,Technology,Keyboard,3,65,195,44.99
+2025-01-31,East,Office,Desk lamp,15,35,525,108.76
+2025-08-21,North,Office,Desk lamp,5,35,175,38.03
+2025-10-12,South,Home,Throw blanket,13,29,377,58.66
+2025-01-30,West,Office,Notebook,4,12,48,14.02
+2025-10-27,South,Technology,Headphones,1,89,89,20.97
+2025-01-30,West,Home,Coffee maker,3,75,225,71.06
+2025-02-04,East,Technology,Headphones,10,89,890,189.45
+2025-10-24,West,Home,Coffee maker,4,75,300,78.74
+2025-10-26,North,Office,Desk lamp,11,35,385,128.97
+2025-06-10,East,Technology,Keyboard,11,65,715,129.48
+2025-11-27,North,Technology,Keyboard,11,65,715,160.99
+2025-08-23,West,Technology,Headphones,1,89,89,12.18
+2025-05-16,East,Technology,Keyboard,9,65,585,195.77
+2025-05-06,North,Technology,Headphones,15,89,1335,247.71
+2025-10-06,North,Office,Desk lamp,14,35,490,127.74
+2025-01-05,North,Home,Throw blanket,9,29,261,87.25
+2025-03-10,North,Technology,Headphones,15,89,1335,195.64
+2025-10-11,East,Technology,Headphones,12,89,1068,195.06
+2025-06-25,East,Home,Coffee maker,4,75,300,83.44
+2025-09-08,North,Office,Notebook,9,12,108,35.45
+2025-11-21,South,Technology,Headphones,2,89,178,55.31
+2025-06-20,East,Technology,Headphones,1,89,89,23.72
+2025-08-15,South,Office,Notebook,3,12,36,8.96
+2025-12-20,East,Technology,Headphones,2,89,178,43.7
+2025-10-10,East,Office,Notebook,10,12,120,26.26
+2025-07-06,West,Technology,Headphones,5,89,445,145.4
+2025-05-08,West,Technology,Keyboard,11,65,715,143.96
+2025-07-28,East,Home,Coffee maker,15,75,1125,374.54
+2025-03-25,East,Technology,Keyboard,14,65,910,293.68
+2025-06-20,South,Technology,Headphones,3,89,267,81.31
+2025-05-08,North,Home,Throw blanket,13,29,377,59.04
+2025-07-15,West,Home,Throw blanket,2,29,58,18.41
+2025-08-24,North,Technology,Keyboard,4,65,260,49.45
+2025-01-13,East,Technology,Keyboard,4,65,260,55.03
+2025-02-05,North,Office,Notebook,14,12,168,33.73
+2025-12-14,North,Home,Coffee maker,7,75,525,176.41
+2025-05-14,East,Technology,Headphones,15,89,1335,338.47
+2025-02-25,South,Office,Notebook,1,12,12,2.39
+2025-11-07,West,Office,Notebook,7,12,84,17.52
+2025-05-11,West,Home,Coffee maker,4,75,300,84.91
+2025-10-03,East,Technology,Headphones,9,89,801,163.22
+2025-06-19,North,Technology,Headphones,11,89,979,266.85
+2025-06-03,North,Technology,Headphones,12,89,1068,291.98
+2025-12-23,North,Office,Notebook,7,12,84,20.79
+2025-12-07,South,Technology,Keyboard,7,65,455,125.48
+2025-10-19,North,Technology,Keyboard,10,65,650,138.71
+2025-05-27,East,Technology,Headphones,5,89,445,97.4
+2025-12-02,North,Home,Coffee maker,10,75,750,170.21
+2025-04-20,South,Office,Desk lamp,11,35,385,116.49
+2025-12-04,West,Home,Throw blanket,3,29,87,16.12
+2025-11-14,North,Home,Throw blanket,11,29,319,45.13
+2025-06-08,East,Technology,Keyboard,11,65,715,218.44
+2025-01-24,East,Technology,Keyboard,1,65,65,22.51
+2025-02-07,South,Home,Coffee maker,14,75,1050,226.09
+2025-04-10,South,Home,Throw blanket,10,29,290,67.77
+2025-12-02,West,Technology,Keyboard,3,65,195,63.44
+2025-08-06,East,Technology,Headphones,13,89,1157,185.65
+2025-08-26,West,Home,Throw blanket,9,29,261,64.78
+2025-03-10,South,Technology,Headphones,8,89,712,194.76
+2025-06-12,South,Home,Coffee maker,10,75,750,195.68
+2025-09-16,South,Home,Throw blanket,15,29,435,135.3
+2025-03-23,South,Home,Coffee maker,8,75,600,134.11
+2025-11-23,North,Technology,Keyboard,14,65,910,269.48
+2025-11-17,East,Home,Coffee maker,8,75,600,109.89
+2025-05-27,East,Technology,Headphones,12,89,1068,194.9
+2025-10-04,West,Office,Notebook,15,12,180,27.33
+2025-12-22,East,Technology,Keyboard,7,65,455,128.53
+2025-07-28,North,Technology,Headphones,7,89,623,152.51
+2025-04-16,South,Office,Desk lamp,1,35,35,7.34
+2025-01-11,South,Home,Coffee maker,12,75,900,206.73
+2025-07-19,South,Office,Notebook,5,12,60,14.63
+2025-11-05,East,Home,Throw blanket,9,29,261,60.63
+2025-09-06,West,Office,Notebook,7,12,84,17.59
+2025-07-27,East,Home,Throw blanket,11,29,319,99.95
+2025-10-01,West,Technology,Keyboard,10,65,650,213.59
+2025-12-06,West,Home,Coffee maker,10,75,750,104.48
+2025-08-25,East,Office,Desk lamp,3,35,105,13.81
+2025-04-19,South,Office,Desk lamp,6,35,210,40.99
+2025-08-04,North,Office,Desk lamp,5,35,175,54.61
+2025-10-04,West,Office,Desk lamp,1,35,35,12.25
+2025-11-29,West,Office,Notebook,4,12,48,14.38
+2025-01-16,East,Home,Throw blanket,1,29,29,4.81
+2025-03-20,East,Technology,Headphones,10,89,890,132.64
+2025-10-16,East,Home,Throw blanket,2,29,58,13.16
+2025-07-08,East,Office,Notebook,13,12,156,40.46
+2025-02-28,East,Home,Throw blanket,12,29,348,118.98
+2025-01-14,North,Technology,Headphones,10,89,890,224.67
+2025-04-12,West,Office,Desk lamp,7,35,245,62.76
+2025-02-22,North,Home,Throw blanket,4,29,116,36.61
+2025-03-03,West,Home,Coffee maker,13,75,975,194.86
+2025-07-09,West,Office,Desk lamp,11,35,385,91.0
+2025-08-04,South,Office,Notebook,1,12,12,1.73
+2025-08-24,East,Office,Notebook,11,12,132,29.06
+2025-11-30,North,Home,Throw blanket,9,29,261,68.29
+2025-09-05,South,Home,Coffee maker,13,75,975,214.68
+2025-05-18,North,Home,Throw blanket,10,29,290,91.61
+2025-08-19,East,Technology,Headphones,5,89,445,130.21
+2025-12-09,South,Home,Coffee maker,10,75,750,148.03
+2025-06-16,East,Office,Desk lamp,14,35,490,113.75
+2025-05-13,North,Office,Notebook,13,12,156,28.75
+2025-05-22,West,Home,Coffee maker,12,75,900,214.94
+2025-05-04,South,Technology,Keyboard,2,65,130,30.21
+2025-09-01,South,Technology,Keyboard,12,65,780,174.0
+2025-05-31,East,Technology,Headphones,2,89,178,37.92
+2025-12-06,North,Technology,Keyboard,5,65,325,74.38
+2025-08-06,North,Home,Coffee maker,6,75,450,90.41
+2025-06-06,North,Office,Desk lamp,5,35,175,30.28
+2025-06-11,West,Home,Throw blanket,4,29,116,33.74
+2025-04-09,East,Home,Throw blanket,3,29,87,25.22
+2025-10-29,North,Office,Notebook,12,12,144,49.75
+2025-04-27,North,Technology,Keyboard,5,65,325,52.41
+2025-10-01,East,Technology,Headphones,12,89,1068,195.54
+2025-05-30,East,Technology,Headphones,9,89,801,213.63
+2025-01-07,North,Office,Desk lamp,2,35,70,15.96
+2025-04-05,West,Office,Desk lamp,6,35,210,37.39
+2025-02-03,South,Office,Desk lamp,2,35,70,16.32
+2025-12-18,West,Home,Coffee maker,11,75,825,127.79
+2025-02-13,East,Home,Coffee maker,5,75,375,55.22
+2025-11-02,East,Office,Desk lamp,10,35,350,104.44
+2025-08-15,North,Office,Desk lamp,8,35,280,88.99
+2025-10-19,West,Office,Desk lamp,5,35,175,45.54
+2025-04-17,East,Home,Throw blanket,2,29,58,10.49
+2025-05-03,East,Technology,Headphones,3,89,267,65.94
+2025-07-29,South,Technology,Keyboard,1,65,65,18.11
+2025-01-17,East,Office,Desk lamp,5,35,175,32.6
+2025-08-21,West,Office,Notebook,12,12,144,40.05
+2025-11-17,East,Office,Notebook,13,12,156,33.97
+2025-11-28,East,Home,Coffee maker,4,75,300,98.68
+2025-01-31,East,Technology,Keyboard,2,65,130,39.3
+2025-10-19,North,Home,Coffee maker,12,75,900,198.9
+2025-06-05,South,Office,Desk lamp,12,35,420,141.46
+2025-09-10,South,Home,Coffee maker,9,75,675,93.49
+2025-08-10,North,Technology,Headphones,15,89,1335,345.57
+2025-04-28,West,Technology,Headphones,2,89,178,62.28
+2025-05-18,West,Home,Throw blanket,14,29,406,119.98
+2025-09-23,South,Technology,Keyboard,8,65,520,171.96
+2025-08-12,South,Technology,Keyboard,10,65,650,222.87
+2025-07-29,North,Office,Desk lamp,6,35,210,40.71
+2025-03-24,North,Technology,Headphones,14,89,1246,267.49
+2025-12-06,South,Office,Desk lamp,5,35,175,53.75
+2025-08-21,West,Home,Coffee maker,1,75,75,14.43
+2025-07-26,West,Office,Notebook,2,12,24,6.51
+2025-07-31,West,Home,Coffee maker,8,75,600,97.89
+2025-09-13,South,Office,Notebook,10,12,120,35.38
+2025-10-09,East,Technology,Keyboard,5,65,325,108.34
+2025-12-24,South,Office,Desk lamp,15,35,525,77.66
+2025-05-03,East,Home,Throw blanket,10,29,290,55.53
+2025-07-28,West,Technology,Headphones,9,89,801,137.52
+2025-03-02,East,Technology,Headphones,8,89,712,167.05
+2025-09-18,North,Home,Throw blanket,5,29,145,31.26
+2025-05-05,South,Office,Desk lamp,8,35,280,69.1
+2025-11-03,East,Office,Desk lamp,4,35,140,44.62
+2025-08-01,North,Office,Notebook,13,12,156,52.24
+2025-01-02,North,Home,Coffee maker,5,75,375,107.62
+2025-12-04,South,Home,Coffee maker,10,75,750,239.26
+2025-09-05,North,Office,Desk lamp,9,35,315,61.89
+2025-08-22,North,Home,Coffee maker,7,75,525,168.0
+2025-10-20,South,Home,Throw blanket,4,29,116,20.15
+2025-06-12,South,Office,Desk lamp,1,35,35,9.88
+2025-12-06,East,Office,Desk lamp,7,35,245,57.31
+2025-09-15,North,Technology,Headphones,3,89,267,85.45
+2025-09-27,South,Office,Desk lamp,2,35,70,8.65
+2025-12-02,East,Technology,Keyboard,7,65,455,62.43
+2025-11-16,South,Office,Notebook,6,12,72,19.4
+2025-12-12,South,Office,Notebook,14,12,168,57.03
+2025-09-07,West,Home,Throw blanket,12,29,348,91.18
+2025-12-17,North,Technology,Keyboard,11,65,715,249.83
+2025-08-11,West,Home,Throw blanket,2,29,58,17.1
+2025-02-21,South,Home,Throw blanket,14,29,406,64.26
+2025-01-15,West,Office,Notebook,15,12,180,35.03
+2025-07-03,North,Technology,Headphones,5,89,445,97.48
+2025-07-30,East,Technology,Keyboard,9,65,585,93.07
+2025-07-15,East,Technology,Headphones,10,89,890,208.67
+2025-04-29,South,Home,Coffee maker,3,75,225,60.01
+2025-12-08,West,Office,Desk lamp,5,35,175,57.18
+2025-05-28,East,Office,Desk lamp,15,35,525,71.92
+2025-06-03,South,Office,Notebook,10,12,120,33.45
+2025-06-04,East,Office,Desk lamp,14,35,490,171.43
+2025-05-02,South,Office,Desk lamp,2,35,70,17.61
+2025-12-25,North,Home,Coffee maker,5,75,375,46.89
+2025-05-21,West,Home,Throw blanket,7,29,203,50.78
+2025-01-26,South,Home,Throw blanket,13,29,377,117.46
+2025-04-28,North,Office,Notebook,13,12,156,26.58
+2025-05-09,East,Technology,Keyboard,10,65,650,171.92
+2025-01-21,North,Home,Throw blanket,11,29,319,96.14
+2025-07-06,East,Technology,Headphones,10,89,890,125.25
+2025-08-01,East,Office,Notebook,6,12,72,11.97
+2025-07-07,North,Home,Coffee maker,15,75,1125,349.88
+2025-09-04,North,Office,Notebook,15,12,180,52.51
+2025-02-28,South,Office,Notebook,13,12,156,53.27
+2025-04-26,South,Technology,Keyboard,13,65,845,289.39
+2025-02-16,South,Home,Coffee maker,6,75,450,55.44
+2025-08-21,North,Home,Coffee maker,2,75,150,41.21
+2025-10-27,South,Home,Throw blanket,5,29,145,44.83
+2025-12-12,East,Office,Notebook,2,12,24,5.48
+2025-10-15,North,Home,Coffee maker,15,75,1125,371.82
+2025-02-02,South,Technology,Keyboard,11,65,715,235.35
+2025-07-29,West,Office,Notebook,11,12,132,20.08
+2025-09-10,West,Technology,Headphones,5,89,445,63.35
+2025-07-18,South,Home,Coffee maker,3,75,225,46.2
+2025-10-04,South,Home,Throw blanket,12,29,348,88.77
+2025-08-01,West,Home,Throw blanket,3,29,87,27.12
+2025-05-24,West,Home,Coffee maker,7,75,525,146.35
+2025-08-16,East,Technology,Keyboard,8,65,520,164.71
+2025-07-08,North,Technology,Headphones,11,89,979,131.11
+2025-03-04,South,Office,Notebook,4,12,48,6.77
+2025-11-24,West,Technology,Keyboard,11,65,715,94.12
+2025-03-06,East,Office,Notebook,4,12,48,6.52
+2025-10-28,East,Home,Coffee maker,4,75,300,92.1
+2025-03-17,West,Technology,Keyboard,6,65,390,71.67
+2025-10-04,North,Technology,Keyboard,3,65,195,59.21
+2025-01-14,East,Technology,Headphones,11,89,979,120.83
+2025-06-15,West,Technology,Keyboard,10,65,650,104.05
+2025-08-04,West,Technology,Headphones,3,89,267,77.83
+2025-07-05,West,Office,Desk lamp,8,35,280,62.71
+2025-01-23,North,Technology,Keyboard,10,65,650,146.48
+2025-09-03,South,Technology,Headphones,1,89,89,19.41
+2025-12-31,South,Technology,Headphones,8,89,712,97.47
+2025-11-08,East,Technology,Headphones,6,89,534,72.15
+2025-11-21,North,Office,Notebook,10,12,120,24.91
+2025-05-31,South,Home,Coffee maker,9,75,675,159.49
+2025-12-26,West,Office,Desk lamp,2,35,70,22.13
+2025-10-10,East,Home,Throw blanket,15,29,435,95.23
+2025-06-23,South,Technology,Keyboard,7,65,455,96.33
+2025-06-10,South,Home,Throw blanket,2,29,58,11.13
+2025-03-20,South,Office,Notebook,6,12,72,9.75
+2025-08-10,West,Technology,Headphones,2,89,178,51.84
+2025-03-08,West,Office,Notebook,13,12,156,39.76
+2025-06-18,West,Home,Coffee maker,9,75,675,144.78
+2025-08-05,West,Home,Throw blanket,13,29,377,129.21
+2025-06-30,West,Home,Coffee maker,5,75,375,94.85
+2025-12-03,South,Technology,Keyboard,3,65,195,33.46
+2025-10-12,North,Technology,Headphones,6,89,534,78.19
+2025-04-26,South,Office,Notebook,10,12,120,37.73
+2025-12-12,West,Home,Coffee maker,10,75,750,195.05
+2025-12-22,North,Home,Throw blanket,14,29,406,51.42
+2025-06-08,North,Office,Notebook,12,12,144,28.91
+2025-03-15,South,Technology,Keyboard,14,65,910,123.76
+2025-01-16,West,Home,Throw blanket,11,29,319,93.02
+2025-08-03,South,Technology,Keyboard,7,65,455,90.27
+2025-06-16,West,Office,Notebook,5,12,60,19.39
+2025-11-13,West,Technology,Keyboard,3,65,195,53.63
+2025-12-05,South,Office,Notebook,8,12,96,22.24
+2025-05-20,East,Office,Desk lamp,7,35,245,71.94
+2025-08-09,West,Technology,Headphones,6,89,534,98.87
+2025-09-07,North,Home,Throw blanket,10,29,290,37.83
+2025-01-29,West,Office,Desk lamp,10,35,350,58.46
+2025-03-12,North,Technology,Keyboard,13,65,845,157.65
+2025-09-12,South,Technology,Headphones,1,89,89,14.28
+2025-12-27,East,Office,Desk lamp,9,35,315,74.04
+2025-07-01,West,Home,Throw blanket,13,29,377,79.67
+2025-08-12,West,Home,Throw blanket,1,29,29,6.55
+2025-06-10,South,Technology,Headphones,14,89,1246,313.84
+2025-08-02,North,Home,Throw blanket,11,29,319,46.73
+2025-03-29,South,Technology,Headphones,6,89,534,166.27
+2025-08-12,West,Office,Notebook,2,12,24,4.22
+2025-09-26,West,Home,Coffee maker,7,75,525,110.79
+2025-06-23,East,Office,Notebook,12,12,144,28.31
+2025-09-19,West,Technology,Keyboard,2,65,130,31.47
+2025-06-28,North,Technology,Keyboard,15,65,975,280.11
+2025-03-17,East,Home,Throw blanket,14,29,406,58.32
+2025-03-30,East,Office,Notebook,4,12,48,14.15
+2025-04-01,South,Home,Throw blanket,2,29,58,13.15
+2025-10-24,South,Home,Coffee maker,13,75,975,269.74
+2025-11-22,North,Home,Coffee maker,11,75,825,262.99
+2025-03-19,South,Home,Throw blanket,6,29,174,23.61
+2025-06-05,North,Office,Desk lamp,11,35,385,98.57
+2025-02-07,North,Office,Notebook,9,12,108,24.43
+2025-07-08,North,Technology,Headphones,1,89,89,12.25
+2025-11-01,South,Technology,Headphones,10,89,890,201.52
+2025-01-22,South,Home,Coffee maker,13,75,975,320.85
+2025-04-07,North,Home,Coffee maker,11,75,825,213.8
+2025-02-01,South,Home,Coffee maker,3,75,225,32.36
+2025-02-13,East,Office,Notebook,12,12,144,18.58
+2025-08-13,East,Home,Throw blanket,8,29,232,47.26
+2025-07-29,North,Office,Notebook,7,12,84,23.2
+2025-11-20,North,Technology,Headphones,13,89,1157,156.38
+2025-12-14,South,Technology,Headphones,9,89,801,148.47
+2025-12-03,East,Home,Throw blanket,14,29,406,79.85
+2025-03-14,North,Home,Coffee maker,11,75,825,157.87
+2025-12-06,South,Home,Throw blanket,12,29,348,52.08
+2025-06-08,South,Home,Throw blanket,2,29,58,15.54
+2025-03-07,West,Office,Notebook,14,12,168,45.12
+2025-07-05,West,Office,Desk lamp,9,35,315,64.07
+2025-06-24,South,Technology,Keyboard,4,65,260,42.68
+2025-02-09,North,Technology,Keyboard,3,65,195,61.27
+2025-10-04,West,Technology,Headphones,9,89,801,218.07
+2025-11-02,South,Home,Coffee maker,3,75,225,34.98
+2025-12-21,East,Technology,Keyboard,14,65,910,260.14
+2025-07-06,East,Technology,Headphones,7,89,623,213.69
+2025-08-18,East,Home,Coffee maker,5,75,375,91.06
+2025-08-29,East,Office,Notebook,13,12,156,31.92
+2025-08-25,North,Home,Coffee maker,8,75,600,179.38
+2025-08-03,East,Home,Coffee maker,9,75,675,207.82
+2025-05-09,West,Home,Coffee maker,3,75,225,60.18
+2025-02-22,West,Office,Notebook,9,12,108,20.04
+2025-08-19,East,Technology,Keyboard,5,65,325,101.12
+2025-04-24,South,Technology,Headphones,15,89,1335,431.83
+2025-01-28,South,Technology,Headphones,7,89,623,146.69
+2025-02-11,North,Technology,Keyboard,7,65,455,78.1
+2025-02-20,North,Office,Notebook,15,12,180,54.36
+2025-05-27,South,Technology,Keyboard,1,65,65,18.21
+2025-12-28,South,Technology,Keyboard,13,65,845,188.59
+2025-02-10,West,Technology,Headphones,15,89,1335,238.78
+2025-11-08,South,Technology,Keyboard,9,65,585,85.16
+2025-06-04,West,Office,Notebook,4,12,48,6.29
+2025-11-15,South,Office,Desk lamp,11,35,385,51.76
+2025-10-02,West,Office,Desk lamp,10,35,350,92.87
+2025-03-15,North,Home,Coffee maker,4,75,300,65.62
+2025-05-04,South,Home,Coffee maker,6,75,450,73.39
+2025-09-26,North,Home,Throw blanket,2,29,58,7.86
+2025-09-17,West,Home,Coffee maker,9,75,675,141.62
+2025-11-22,South,Office,Desk lamp,1,35,35,12.1
+2025-01-09,North,Office,Notebook,12,12,144,43.4
+2025-12-03,West,Office,Notebook,4,12,48,14.28
+2025-06-20,East,Home,Throw blanket,13,29,377,49.08
+2025-11-26,East,Home,Coffee maker,6,75,450,139.94
+2025-12-23,South,Home,Throw blanket,8,29,232,61.55
+2025-08-23,West,Technology,Keyboard,2,65,130,24.37
+2025-04-13,West,Technology,Headphones,13,89,1157,222.82
+2025-07-23,South,Office,Notebook,9,12,108,19.25
+2025-05-27,North,Home,Throw blanket,4,29,116,36.92
+2025-12-02,North,Technology,Headphones,14,89,1246,227.82
+2025-07-24,South,Office,Notebook,7,12,84,27.36
+2025-04-06,South,Office,Desk lamp,6,35,210,58.63
+2025-09-23,North,Office,Notebook,15,12,180,54.77
+2025-02-10,South,Home,Throw blanket,7,29,203,52.49
+2025-05-31,North,Technology,Keyboard,9,65,585,84.0
+2025-06-01,North,Office,Notebook,11,12,132,29.38
+2025-03-27,South,Home,Throw blanket,7,29,203,40.77
+2025-06-30,South,Technology,Headphones,12,89,1068,195.6
+2025-12-10,South,Technology,Headphones,2,89,178,36.23
+2025-03-23,West,Home,Throw blanket,11,29,319,48.76
+2025-08-13,West,Home,Coffee maker,11,75,825,122.95
+2025-11-27,North,Technology,Keyboard,13,65,845,171.78
+2025-11-06,East,Home,Coffee maker,1,75,75,20.71
+2025-08-16,West,Office,Notebook,6,12,72,18.14
+2025-07-23,North,Home,Coffee maker,6,75,450,121.23
+2025-01-14,East,Technology,Keyboard,2,65,130,30.52
+2025-10-15,West,Office,Desk lamp,15,35,525,94.61
+2025-08-17,East,Office,Notebook,12,12,144,50.28
+2025-09-09,East,Office,Notebook,12,12,144,21.34
+2025-03-30,South,Technology,Headphones,8,89,712,248.75
+2025-06-13,North,Home,Throw blanket,14,29,406,114.98
+2025-05-29,North,Home,Coffee maker,9,75,675,213.17
+2025-12-25,East,Home,Throw blanket,12,29,348,105.29
+2025-03-04,East,Home,Coffee maker,4,75,300,90.65
+2025-09-10,West,Technology,Keyboard,13,65,845,171.54
+2025-08-28,East,Home,Coffee maker,6,75,450,117.34
+2025-06-08,South,Technology,Headphones,2,89,178,62.28
+2025-09-27,South,Home,Throw blanket,8,29,232,68.88
+2025-03-06,North,Home,Coffee maker,2,75,150,40.16
+2025-12-15,North,Office,Desk lamp,8,35,280,41.86
+2025-10-28,East,Home,Coffee maker,11,75,825,244.69
+2025-09-15,West,Technology,Keyboard,7,65,455,141.61
+2025-06-05,East,Home,Coffee maker,3,75,225,35.38
+2025-06-27,North,Home,Throw blanket,4,29,116,36.49
+2025-11-22,North,Office,Notebook,4,12,48,7.14
+2025-10-01,West,Office,Notebook,10,12,120,28.27
+2025-10-25,East,Technology,Keyboard,10,65,650,103.59
+2025-11-06,North,Home,Coffee maker,12,75,900,282.4
+2025-01-15,West,Home,Coffee maker,1,75,75,9.78
+2025-10-23,North,Home,Throw blanket,13,29,377,101.7
+2025-11-13,West,Home,Coffee maker,7,75,525,123.14
+2025-05-29,North,Home,Throw blanket,9,29,261,60.31
+2025-06-02,South,Home,Throw blanket,7,29,203,27.77
+2025-08-14,South,Technology,Headphones,3,89,267,61.78
+2025-11-07,East,Technology,Keyboard,6,65,390,74.84
+2025-06-26,South,Home,Throw blanket,6,29,174,26.11
+2025-10-15,West,Office,Notebook,9,12,108,20.89
+2025-05-17,South,Office,Desk lamp,2,35,70,12.39
+2025-05-29,South,Technology,Headphones,1,89,89,28.37
+2025-03-23,North,Office,Desk lamp,4,35,140,46.87
+2025-04-08,East,Home,Throw blanket,6,29,174,40.82
+2025-09-13,North,Home,Coffee maker,8,75,600,140.64
+2025-09-16,South,Technology,Headphones,7,89,623,213.28
+2025-06-30,West,Technology,Keyboard,10,65,650,85.56
+2025-12-01,South,Office,Desk lamp,10,35,350,65.0
+2025-02-25,South,Technology,Headphones,14,89,1246,187.9
+2025-07-07,South,Office,Notebook,12,12,144,29.4
+2025-10-19,East,Office,Desk lamp,1,35,35,7.12
+2025-07-17,South,Office,Notebook,2,12,24,7.1
+2025-11-16,West,Office,Notebook,14,12,168,25.13
+2025-07-11,North,Technology,Headphones,7,89,623,154.69
+2025-03-15,East,Office,Notebook,13,12,156,40.34
+2025-01-21,West,Office,Desk lamp,9,35,315,40.62
+2025-08-31,South,Home,Throw blanket,6,29,174,26.84
+2025-06-17,North,Home,Coffee maker,3,75,225,35.41
+2025-06-03,North,Home,Coffee maker,12,75,900,213.01
+2025-09-08,North,Home,Coffee maker,9,75,675,154.73
+2025-06-19,West,Technology,Headphones,6,89,534,184.43
+2025-12-19,West,Home,Coffee maker,5,75,375,96.48
+2025-10-24,East,Office,Notebook,11,12,132,37.74
+2025-03-29,South,Home,Coffee maker,8,75,600,92.39
+2025-01-17,West,Home,Throw blanket,4,29,116,19.01
+2025-08-03,East,Office,Desk lamp,6,35,210,45.15
+2025-09-14,South,Technology,Keyboard,7,65,455,145.94
+2025-02-01,East,Home,Throw blanket,12,29,348,83.28
+2025-12-06,South,Home,Coffee maker,6,75,450,108.39
+2025-08-24,North,Office,Notebook,3,12,36,8.84
+2025-12-15,North,Home,Throw blanket,13,29,377,98.14
+2025-05-23,North,Technology,Keyboard,4,65,260,44.65
+2025-05-28,East,Office,Notebook,13,12,156,43.49
+2025-09-03,North,Office,Desk lamp,6,35,210,52.27
+2025-05-28,West,Home,Throw blanket,5,29,145,36.53
+2025-07-22,North,Home,Coffee maker,7,75,525,178.27
+2025-01-22,North,Technology,Keyboard,5,65,325,110.41
+2025-08-15,North,Technology,Headphones,6,89,534,155.87
+2025-10-03,North,Technology,Keyboard,4,65,260,86.99
+2025-03-12,West,Home,Throw blanket,5,29,145,37.93
+2025-05-05,West,Home,Coffee maker,4,75,300,82.22
+2025-11-23,East,Home,Coffee maker,4,75,300,39.62
+2025-08-30,West,Office,Desk lamp,6,35,210,58.1
+2025-10-09,East,Technology,Keyboard,1,65,65,13.88
+2025-11-30,East,Office,Desk lamp,8,35,280,82.28
+2025-05-27,West,Office,Notebook,6,12,72,23.68
+2025-10-21,East,Technology,Headphones,11,89,979,237.98
+2025-01-20,East,Home,Throw blanket,14,29,406,87.74
+2025-01-19,South,Technology,Keyboard,15,65,975,293.7
+2025-05-29,West,Technology,Keyboard,15,65,975,119.08
+2025-02-24,North,Home,Coffee maker,10,75,750,139.09
+2025-09-26,South,Home,Throw blanket,9,29,261,84.7
+2025-09-16,South,Technology,Keyboard,14,65,910,166.3
+2025-03-25,South,Technology,Headphones,6,89,534,143.7
+2025-01-08,North,Home,Throw blanket,3,29,87,26.26
+2025-04-09,East,Home,Coffee maker,11,75,825,214.93
+2025-07-27,South,Home,Throw blanket,15,29,435,103.75
+2025-12-09,West,Technology,Headphones,7,89,623,101.24
+2025-06-15,East,Technology,Keyboard,8,65,520,63.22
+2025-08-17,North,Office,Desk lamp,4,35,140,47.52
+2025-10-21,West,Office,Notebook,10,12,120,21.62
+2025-05-01,West,Office,Notebook,12,12,144,39.4
+2025-03-23,South,Office,Desk lamp,5,35,175,48.61
+2025-06-09,West,Home,Throw blanket,13,29,377,100.62
+2025-11-11,East,Office,Notebook,6,12,72,12.27
+2025-03-20,South,Technology,Keyboard,8,65,520,151.83
+2025-08-01,South,Home,Coffee maker,6,75,450,132.39
+2025-04-22,East,Home,Throw blanket,14,29,406,112.25
+2025-02-11,South,Home,Coffee maker,14,75,1050,253.55
+2025-10-16,West,Office,Notebook,2,12,24,3.22
+2025-09-16,East,Home,Coffee maker,15,75,1125,283.19
+2025-06-17,South,Technology,Keyboard,3,65,195,28.61
+2025-10-26,South,Technology,Keyboard,12,65,780,109.91
+2025-01-29,South,Home,Coffee maker,8,75,600,90.21
+2025-10-16,West,Office,Desk lamp,8,35,280,69.59
+2025-06-07,West,Home,Throw blanket,13,29,377,79.57
+2025-04-22,West,Technology,Headphones,12,89,1068,139.28
+2025-02-02,West,Office,Notebook,12,12,144,48.23
+2025-08-30,West,Technology,Headphones,15,89,1335,248.35
+2025-03-11,South,Technology,Keyboard,13,65,845,174.18
+2025-07-13,South,Office,Desk lamp,8,35,280,38.77
+2025-10-04,East,Home,Throw blanket,14,29,406,109.75
+2025-04-02,South,Office,Notebook,2,12,24,5.8
+2025-01-02,West,Home,Throw blanket,4,29,116,40.03
+2025-10-06,South,Office,Desk lamp,11,35,385,93.3
+2025-08-24,North,Technology,Keyboard,4,65,260,40.48
+2025-02-27,West,Technology,Keyboard,15,65,975,298.53
+2025-01-09,East,Office,Desk lamp,10,35,350,58.59
+2025-01-18,South,Technology,Headphones,10,89,890,229.17
+2025-01-25,East,Home,Throw blanket,14,29,406,117.87
+2025-04-30,East,Office,Desk lamp,8,35,280,82.18
+2025-09-15,North,Technology,Headphones,3,89,267,46.42
+2025-06-13,North,Home,Throw blanket,10,29,290,50.6
+2025-09-24,East,Technology,Keyboard,11,65,715,153.81
+2025-10-13,East,Office,Notebook,1,12,12,3.17
+2025-09-11,West,Office,Desk lamp,9,35,315,108.24
+2025-07-15,North,Home,Throw blanket,11,29,319,89.37
+2025-06-03,South,Office,Desk lamp,3,35,105,17.04
+2025-05-04,East,Home,Coffee maker,8,75,600,113.5
+2025-08-26,West,Home,Throw blanket,3,29,87,21.69
+2025-09-29,East,Office,Desk lamp,9,35,315,65.94
+2025-06-19,West,Office,Notebook,4,12,48,15.94
+2025-10-02,East,Office,Notebook,2,12,24,3.16
+2025-11-06,West,Office,Desk lamp,11,35,385,123.56
+2025-10-28,East,Technology,Keyboard,13,65,845,194.57
+2025-01-08,East,Office,Notebook,5,12,60,20.13
+2025-09-03,East,Home,Throw blanket,2,29,58,16.24
+2025-07-23,East,Home,Throw blanket,4,29,116,28.65
+2025-08-27,North,Office,Notebook,7,12,84,16.04
+2025-09-12,South,Office,Notebook,9,12,108,15.41
+2025-06-13,East,Home,Throw blanket,8,29,232,47.62
+2025-10-16,East,Office,Desk lamp,1,35,35,10.17
+2025-10-11,South,Technology,Headphones,5,89,445,83.61
+2025-04-28,South,Technology,Keyboard,6,65,390,97.91
+2025-10-09,North,Technology,Keyboard,8,65,520,93.18
+2025-11-25,South,Office,Desk lamp,12,35,420,94.92
+2025-06-30,East,Home,Throw blanket,13,29,377,57.38
+2025-04-05,West,Home,Coffee maker,8,75,600,144.3
+2025-12-09,West,Technology,Headphones,14,89,1246,368.56
+2025-11-19,East,Office,Desk lamp,3,35,105,14.24
+2025-04-22,South,Technology,Keyboard,1,65,65,13.38
+2025-12-08,South,Home,Coffee maker,11,75,825,224.1
+2025-09-30,South,Technology,Headphones,1,89,89,10.92
+2025-05-21,North,Home,Coffee maker,12,75,900,111.55
+2025-08-09,East,Home,Throw blanket,11,29,319,46.13
+2025-03-18,East,Technology,Headphones,9,89,801,131.48
+2025-07-01,North,Home,Coffee maker,5,75,375,113.56
+2025-07-27,South,Technology,Headphones,6,89,534,133.47
+2025-06-03,West,Home,Throw blanket,4,29,116,31.36
+2025-01-17,West,Home,Throw blanket,13,29,377,80.38
+2025-09-01,West,Office,Desk lamp,9,35,315,83.93
+2025-02-12,South,Home,Throw blanket,3,29,87,27.36
+2025-06-19,West,Home,Throw blanket,13,29,377,122.83
+2025-04-19,South,Technology,Headphones,4,89,356,64.92
+2025-05-24,West,Technology,Headphones,11,89,979,157.87
+2025-04-17,East,Office,Notebook,1,12,12,3.52
+2025-07-23,West,Home,Throw blanket,14,29,406,76.67
+2025-10-18,South,Home,Coffee maker,4,75,300,82.72
+2025-07-16,East,Home,Coffee maker,6,75,450,135.82
+2025-02-10,North,Home,Throw blanket,12,29,348,46.06
+2025-02-08,North,Office,Desk lamp,4,35,140,36.29
+2025-07-23,North,Home,Coffee maker,10,75,750,95.11
+2025-08-19,South,Office,Notebook,13,12,156,26.91
+2025-08-10,East,Home,Coffee maker,7,75,525,145.07
+2025-02-13,North,Home,Throw blanket,7,29,203,61.62
+2025-02-12,North,Home,Throw blanket,2,29,58,9.02
+2025-11-21,East,Home,Throw blanket,13,29,377,109.38
+2025-02-24,West,Office,Notebook,6,12,72,8.73
+2025-07-04,North,Office,Notebook,8,12,96,13.78
+2025-08-09,South,Technology,Headphones,3,89,267,66.24
+2025-02-22,West,Home,Coffee maker,7,75,525,73.82
+2025-11-02,North,Home,Coffee maker,2,75,150,47.8
+2025-07-31,South,Technology,Headphones,5,89,445,133.15
+2025-10-14,East,Home,Throw blanket,15,29,435,109.42
+2025-07-14,East,Technology,Keyboard,11,65,715,108.63
+2025-09-10,East,Office,Notebook,5,12,60,8.07
+2025-08-04,North,Office,Desk lamp,5,35,175,40.49
+2025-05-09,East,Technology,Headphones,6,89,534,152.62
+2025-11-12,East,Office,Desk lamp,10,35,350,78.86
+2025-01-04,South,Technology,Keyboard,5,65,325,63.83
+2025-06-18,South,Home,Coffee maker,7,75,525,103.42
+2025-03-11,North,Home,Throw blanket,10,29,290,56.19
+2025-09-03,North,Home,Throw blanket,4,29,116,18.66
+2025-05-30,South,Office,Desk lamp,6,35,210,71.94
+2025-07-12,North,Technology,Keyboard,6,65,390,120.04
+2025-02-28,East,Office,Desk lamp,6,35,210,53.8
+2025-12-16,West,Home,Coffee maker,3,75,225,76.32
+2025-04-18,South,Office,Desk lamp,12,35,420,127.46
+2025-07-29,South,Home,Throw blanket,2,29,58,8.82
+2025-05-10,East,Office,Notebook,4,12,48,13.66
+2025-08-18,South,Office,Desk lamp,2,35,70,17.77
+2025-12-21,South,Home,Coffee maker,9,75,675,165.4
+2025-10-02,West,Office,Notebook,12,12,144,20.9
+2025-12-07,North,Technology,Keyboard,11,65,715,113.15
+2025-10-16,South,Home,Coffee maker,1,75,75,25.68
+2025-08-09,West,Office,Notebook,13,12,156,19.1
+2025-09-19,East,Office,Notebook,4,12,48,10.68
